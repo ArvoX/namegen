@@ -1,3 +1,4 @@
+
 abalka
 abarca
 abaris
@@ -39,10 +40,13 @@ abla
 ablach
 ablah
 abner
+Abomasnow
 abou
+Abra
 abra
 abraham
 abram
+Absol
 abu
 abudu
 abukka
@@ -164,6 +168,7 @@ aeneas
 aeola
 aeolus
 aer
+Aerodactyl
 aerope
 aes
 aeschylus
@@ -196,6 +201,7 @@ agathi
 agathias
 ageio
 ager
+Aggron
 agh
 agia
 agias
@@ -310,6 +316,7 @@ aiobheann
 aiolos
 aiora
 aioro
+Aipom
 aira
 airard
 aire
@@ -383,6 +390,7 @@ alaine
 alaios
 alaitz
 alak
+Alakazam
 alala
 alam
 alaminos
@@ -645,6 +653,7 @@ altagracia
 al-talavi
 al-taleqani
 altamirano
+Altaria
 al-temiyat
 altha
 althaia
@@ -716,6 +725,7 @@ amber
 amberly
 ambicatos
 ambiorix
+Ambipom
 ambrose
 ambrosia
 ambrosina
@@ -770,6 +780,7 @@ amos
 amouzegar
 amparo
 ampas
+Ampharos
 amphinome
 amr
 amrit
@@ -981,6 +992,7 @@ annis
 annita
 annmarie
 anoop
+Anorith
 anoz
 anrijs
 ansa
@@ -1115,11 +1127,14 @@ arbekoa
 arbela
 arbell
 arbizu
+Arbok
 arbore
 arburua
 arcallach
+Arcanine
 arcelia
 arcesilaos
+Arceus
 archie
 archil
 archilocos
@@ -1167,6 +1182,7 @@ argyra
 ari
 ariadna
 ariadne
+Ariados
 ariana
 ariane
 arianna
@@ -1219,6 +1235,7 @@ arlinda
 arline
 arluzea
 arlyne
+Armaldo
 armand
 armanda
 armandina
@@ -1257,6 +1274,7 @@ arnotegi
 arntzen
 arnulfo
 arobaini
+Aron
 aron
 arontuis
 arotza
@@ -1298,6 +1316,7 @@ arthgal
 arthgallo
 arthmail
 arthur
+Articuno
 artie
 artiga
 artigan
@@ -1553,6 +1572,7 @@ azeari
 azeem
 azeez
 azeeza
+Azelf
 azella
 azhar
 azibar
@@ -1567,6 +1587,8 @@ aztore
 azubeli
 azucena
 azumabito
+Azumarill
+Azurill
 azzah
 azzie
 azzaam
@@ -1591,6 +1613,7 @@ baetan
 baeth
 baethbarr
 baggerly
+Bagon
 bagut
 baha
 bahamdan
@@ -1665,6 +1688,7 @@ balor
 balqis
 balram
 baltasar
+Baltoy
 baltsaros
 balva
 balvis
@@ -1673,6 +1697,7 @@ ban
 banan
 banbhan
 banderas
+Banette
 bang
 banga
 bania
@@ -1707,6 +1732,7 @@ barbee
 barber
 barbera
 barbie
+Barboach
 barbola
 barbra
 barchas
@@ -1783,6 +1809,7 @@ basimah
 baska
 basmah
 bass
+Bastiodon
 basaam
 bates
 bathan
@@ -1797,6 +1824,7 @@ bautam
 bauza
 bavinger
 baxter
+Bayleef
 bazaldua
 bazán
 bazargan
@@ -1825,6 +1853,7 @@ beatrise
 beatriz
 beau
 beaulah
+Beautifly
 bebe
 bébhinn
 bebin
@@ -1841,6 +1870,7 @@ bedaio
 bedelia
 bedwyr
 bee
+Beedrill
 beeghly
 befinn
 bega
@@ -1861,6 +1891,7 @@ belate
 belatucader
 belaúnde
 bel'chitsa
+Beldum
 belen
 belev
 belforte
@@ -1878,7 +1909,9 @@ belle
 bellicia
 bellicianus
 bello
+Bellossom
 bellovesus
+Bellsprout
 beloberezh'e
 belocc
 beloe
@@ -2056,6 +2089,7 @@ b'iakhan'
 bialystok
 bianca
 biashara
+Bibarel
 bibi
 bibie
 bicelmos
@@ -2067,6 +2101,7 @@ bide
 bidelia
 bidii
 bidina
+Bidoof
 bierner
 bihar
 bihotz
@@ -2140,12 +2175,14 @@ blanid
 blankinship
 blanton
 blas
+Blastoise
 bláth
 blathmac
 blathmec
 bláthnaid
 blathnait
 bláthnat
+Blaziken
 bleddfach
 blescius
 blestovit
@@ -2153,6 +2190,7 @@ blets
 bleve
 bline
 blinne
+Blissey
 bloc
 block
 blomkalns
@@ -2215,6 +2253,7 @@ bonita
 bonnie
 bonny
 bonoxus
+Bonsly
 book
 booker
 boon-mee
@@ -2309,6 +2348,7 @@ bredenberg
 bree
 breeda
 brelade
+Breloom
 bremer
 brencis
 brenda
@@ -2402,6 +2442,8 @@ brón
 bronislava
 bronislavs
 bronwyn
+Bronzong
+Bronzor
 brook
 brooke
 brooks
@@ -2447,6 +2489,7 @@ bud
 buda
 budd
 buddy
+Budew
 budocesuganios
 buena
 bueno
@@ -2462,13 +2505,16 @@ buic
 buichet
 buiondo
 buite
+Buizel
 bukdang
 bula
 bulah
+Bulbasaur
 bulgar
 bulich
 bulichi
 buna
+Buneary
 bungna
 bungnaka
 bungpai
@@ -2486,6 +2532,7 @@ burimas
 burl
 burleson
 burma
+Burmy
 burni
 burns
 burrieza
@@ -2507,6 +2554,7 @@ buthaynah
 butri
 butt
 butterfield
+Butterfree
 buzhsk
 bwana
 byers
@@ -2535,6 +2583,8 @@ cacares
 cacho
 cachon
 cacht
+Cacnea
+Cacturne
 cacumattus
 cadena
 cadero
@@ -2619,6 +2669,7 @@ camel
 camelia
 camellia
 cameron
+Camerupt
 cami
 camie
 camila
@@ -2738,6 +2789,7 @@ carmine
 carmon
 carmona
 carnes
+Carnivine
 carol
 carola
 carolann
@@ -2782,6 +2834,7 @@ cartimandua
 cartivellaunos
 cartwright
 carvalho
+Carvanha
 carvilius
 cary
 caryl
@@ -2792,6 +2845,7 @@ casald
 casamayor
 casandra
 casas
+Cascoon
 cascorach
 cascos
 casero
@@ -2818,6 +2872,7 @@ cassy
 castanada
 castaneda
 castañon
+Castform
 castilla
 castillo
 castor
@@ -2833,6 +2888,7 @@ catano
 catarina
 catavignus
 catchada
+Caterpie
 cates
 cathail
 cathal
@@ -2917,6 +2973,7 @@ ceithin
 ceithlenn
 celades
 celatus
+Celebi
 celena
 celesta
 celeste
@@ -2992,6 +3049,7 @@ chang
 changanya
 changsai
 chanhira
+Chansey
 chantal
 chantay
 chante
@@ -3017,6 +3075,7 @@ charisse
 charita
 charity
 chariya
+Charizard
 charla
 charleen
 charlena
@@ -3033,6 +3092,8 @@ charlsie
 charlyn
 charmain
 charmaine
+Charmander
+Charmeleon
 charoen
 charoenrasamee
 charoensom
@@ -3051,6 +3112,7 @@ chastity
 chatchalerm
 chatchom
 chatmanee
+Chatot
 chatri
 chatrsuda
 chattan
@@ -3100,11 +3162,13 @@ chernihiv
 chernobyl'
 cherri
 cherrie
+Cherrim
 cherry
 cherryl
 chersonesus
 chersoneus
 chertoryisk
+Cherubi
 cherven
 cherven'
 chervenskii
@@ -3129,12 +3193,17 @@ chieko
 chika
 chikafusa
 chikayo
+Chikorita
 chilavert
 chillida
 chilongogo
+Chimchar
+Chimecho
 chin
 china
+Chinchou
 ching
+Chingling
 chinja
 chintana
 chione
@@ -3275,6 +3344,7 @@ cithruadh
 claibourn
 clair
 claire
+Clamperl
 clanova
 clara
 clare
@@ -3303,8 +3373,12 @@ claudio
 clavet
 clavijero
 clay
+Claydol
 clayton
 cleena
+Clefable
+Clefairy
+Cleffa
 clelia
 clemencia
 clement
@@ -3340,6 +3414,7 @@ cloris
 close
 clothra
 clotilde
+Cloyster
 cluim
 clyde
 clyte
@@ -3414,6 +3489,8 @@ colton
 colum
 columba
 columbus
+Combee
+Combusken
 comgal
 comgall
 comgan
@@ -3545,6 +3622,7 @@ coron
 coronel
 corotiacus
 corotica
+Corphish
 corpry
 corral
 corrales
@@ -3556,6 +3634,7 @@ corrin
 corrina
 corrine
 corrinne
+Corsola
 cort
 cortes
 cortez
@@ -3589,12 +3668,15 @@ cox
 coy
 coya
 coyne
+Cradily
 craftiny
 craig
 crain
+Cranidos
 crankshaw
 cratylus
 craven
+Crawdaunt
 crawford
 crear
 creda
@@ -3607,6 +3689,7 @@ cresconio
 cresida
 crespo
 cressa
+Cresselia
 cressida
 cressman
 crestani
@@ -3638,8 +3721,11 @@ cristobal
 cristopher
 cristy
 criville
+Croagunk
+Crobat
 crochnuit
 crocker
+Croconaw
 crocus
 croderg
 cróeb
@@ -3673,6 +3759,7 @@ cuaillemech
 cualann
 cuán
 cuano
+Cubone
 cubrero
 cuc
 cuchulainn
@@ -3745,6 +3832,7 @@ cuthlyn
 cyma
 cymodece
 cynara
+Cyndaquil
 cyndi
 cyndy
 cynloyp
@@ -3923,6 +4011,7 @@ darina
 dario
 darise
 darius
+Darkrai
 darla
 darleen
 darlena
@@ -4065,6 +4154,7 @@ delaney
 delbaith
 delbchaem
 delbert
+Delcatty
 delcie
 delena
 delfina
@@ -4073,6 +4163,7 @@ delfinia
 delgado
 delgnat
 delia
+Delibird
 delicia
 deligiannis
 deligiorgis
@@ -4148,6 +4239,7 @@ deon
 deonna
 deoradhán
 deorgreine
+Deoxys
 derba
 derbáil
 derbent
@@ -4207,6 +4299,7 @@ devorah
 devorguilla
 dewayne
 dewey
+Dewgong
 dewitt
 dexter
 dhabihiyan
@@ -4227,6 +4320,7 @@ dia
 diago
 diagur
 diahka
+Dialga
 diamit
 diamond
 dian
@@ -4261,6 +4355,7 @@ dieul
 diez
 digbail
 dighenis
+Diglett
 digna
 dihmubidi
 dihqani
@@ -4317,6 +4412,7 @@ distiratsu
 dita
 ditaka
 dithakar
+Ditto
 diuma
 diviciacus
 divina
@@ -4335,7 +4431,9 @@ dobson
 doccius
 dodds
 dodie
+Dodrio
 dodson
+Doduo
 dogfael
 doherty
 doibhilin
@@ -4424,6 +4522,7 @@ donogh
 donostia
 donough
 donovan
+Donphan
 dontas
 donte
 donya
@@ -4498,6 +4597,10 @@ dowling
 downett
 doxiadis
 doyle
+Dragonair
+Dragonite
+Drapion
+Dratini
 dreama
 drecan
 drem
@@ -4506,6 +4609,8 @@ dremen
 drescher
 drew
 driccius
+Drifblim
+Drifloon
 dristi
 driumne
 driutesk
@@ -4517,6 +4622,7 @@ drón
 drosma
 drosmis
 drostan
+Drowzee
 drucilla
 drucker
 druim
@@ -4578,6 +4684,7 @@ dufgal
 duftah
 dugald
 dughlas
+Dugtrio
 duha
 duigenan
 duihi
@@ -4614,15 +4721,20 @@ dunmail
 dunn
 dunocratis
 dunod
+Dunsparce
 durán
 duranjaya
 durbe
 durjaya
 durmada
 dur-sharrukin
+Dusclops
+Dusknoir
+Duskull
 dusti
 dustin
 duston
+Dustox
 dusty
 duthac
 dutka
@@ -4751,6 +4863,7 @@ edwina
 edyth
 edythe
 edzus
+Eevee
 effie
 efrain
 efren
@@ -4820,6 +4933,7 @@ eizens
 ekachakra
 ekain
 ekaitz
+Ekans
 ekaterine
 ekaterini
 ekhi
@@ -4866,10 +4980,15 @@ eleanora
 eleanore
 elease
 eleaterios
+Electabuzz
+Electivire
 electra
+Electrike
+Electrode
 eleder
 eleftheria
 eleftherios
+Elekid
 elektra
 elena
 elene
@@ -5040,6 +5159,7 @@ emmy
 emogene
 emon
 emory
+Empoleon
 en
 ena
 enaonru
@@ -5081,6 +5201,7 @@ enrique
 enriqueta
 enriquez
 enru
+Entei
 eoban
 eochaid
 eochaidh
@@ -5216,6 +5337,7 @@ esmeralda
 esozi
 espaid
 espejo
+Espeon
 esperanza
 espinosa
 espinoza
@@ -5370,7 +5492,10 @@ evon
 evonne
 ewa
 ewing
+Exeggcute
+Exeggutor
 exie
+Exploud
 eyjolf
 eystein
 eyvind
@@ -5448,6 +5573,7 @@ fareeda
 fareeha
 farfan
 farfán
+Farfetch'd
 fargason
 farhat
 faridah
@@ -5490,6 +5616,7 @@ fearghal
 fearghall
 fearghas
 fearghus
+Fearow
 febal
 fechin
 feclach
@@ -5503,6 +5630,7 @@ federle
 fedha
 fedlimidh
 fedora
+Feebas
 fehin
 feichín
 feidelma
@@ -5542,6 +5670,7 @@ feo
 feodor
 feodora
 ferai
+Feraligatr
 fercos
 ferdia
 ferdiad
@@ -5639,6 +5768,7 @@ finnbogi
 finnchad
 finndealbh
 finnén
+Finneon
 finnguala
 finnian
 finnleik
@@ -5686,6 +5816,7 @@ flann
 flannacán
 flannan
 flannán
+Flareon
 flathmann
 flavia
 flazino
@@ -5694,6 +5825,7 @@ fleta
 fletcher
 flidias
 flo
+Floatzel
 flor
 flora
 florakis
@@ -5717,6 +5849,8 @@ flossie
 floy
 floyd
 flurry
+Flygon
+Flaaffy
 foa
 fochlann
 fochmare
@@ -5743,6 +5877,7 @@ formerio
 formoselle
 forne
 forrest
+Forretress
 forrughi
 fortchern
 fortun
@@ -5822,6 +5957,7 @@ froila
 frois
 frombork
 fronilde
+Froslass
 fruitutsu
 fuad
 fuamnach
@@ -5846,6 +5982,7 @@ fundling
 funes
 furaha
 furlong
+Furret
 fursa
 fursey
 fususaki
@@ -5853,6 +5990,7 @@ faakhir
 faaris
 faarooq
 gabirel
+Gabite
 gabon
 gabone
 gabriel
@@ -5891,6 +6029,7 @@ galíndez
 galindo
 galitskii
 gall
+Gallade
 gallardo
 gallech
 gallego
@@ -5922,10 +6061,12 @@ garbhcronan
 garbi
 garbie
 garbikunde
+Garchomp
 garcia
 garcía
 garcilaso
 garden
+Gardevoir
 gardi
 gardner
 gardotza
@@ -5973,8 +6114,10 @@ gaspar
 gasquilan
 gasteiz
 gastelú
+Gastly
 gaston
 gastons
+Gastrodon
 gatis
 gats
 gatsioudis
@@ -6037,6 +6180,7 @@ geneva
 genevie
 genevieve
 genevive
+Gengar
 genia
 genie
 genna
@@ -6048,6 +6192,7 @@ genovelis
 genoveva
 gentza
 gentzane
+Geodude
 geoffrey
 georgann
 george
@@ -6122,6 +6267,7 @@ gianna
 giannes
 giberau
 gibernau
+Gible
 gibson
 gidayu
 gidget
@@ -6165,6 +6311,8 @@ giorsal
 giovanna
 giovanni
 gipuzkoa
+Girafarig
+Giratina
 girgis
 girija
 girish
@@ -6186,11 +6334,14 @@ gizon
 gizur
 gjaflaug
 gjertsen
+Glaceon
 gladis
 glady
 gladys
 glafkos
 glaisne
+Glalie
+Glameow
 glanluadh
 glantz
 glas
@@ -6211,8 +6362,11 @@ glennie
 glennis
 glentilt
 glezos
+Gligar
 glinda
+Gliscor
 glóir
+Gloom
 glore
 gloria
 glorija
@@ -6258,10 +6412,14 @@ goiz
 goizane
 goizargi
 goizeder
+Golbat
 golda
+Goldeen
 golden
 goldie
+Golduck
 goldwyn
+Golem
 goll
 golotichesk
 gol'sk
@@ -6291,6 +6449,7 @@ goratze
 gorbea
 gordan
 gordon
+Gorebyss
 goren
 gorge
 gorgias
@@ -6344,6 +6503,7 @@ graig
 gráinne
 gramm
 granados
+Granbull
 grande
 grani
 grania
@@ -6353,6 +6513,7 @@ grannus
 grant
 granville
 granya
+Graveler
 graxi
 gray
 grayce
@@ -6381,6 +6542,7 @@ grigoris
 grigorius
 grim
 grima
+Grimer
 grimhild
 grinstein
 grisel
@@ -6390,9 +6552,14 @@ grivas
 groa
 grodna
 gross
+Grotle
+Groudon
 grove
 grover
+Grovyle
+Growlithe
 grummoch
+Grumpig
 gruoch
 gryta
 guadalcázar
@@ -6424,6 +6591,7 @@ guinnear
 guitolinus
 gul
 gul-mahomed
+Gulpin
 gumy
 guna
 gunars
@@ -6479,6 +6647,7 @@ gwyn
 gwyna
 gwyneth
 gwythno
+Gyarados
 gyda
 habari
 habibah
@@ -6582,6 +6751,7 @@ hans
 hansa
 hansen
 hanuman
+Happiny
 hapsal
 haq
 haqiqat
@@ -6597,6 +6767,7 @@ harilaos
 harish
 haritz
 haritzeder
+Hariyama
 harkaitz
 harlan
 harland
@@ -6639,6 +6810,7 @@ hattush
 hauenstein
 hauk
 haumoe
+Haunter
 haurramari
 haushalter
 havard
@@ -6663,6 +6835,7 @@ hazard
 hazel
 heath
 heather
+Heatran
 heber
 hecabe
 hector
@@ -6708,6 +6881,7 @@ henson
 hera
 heracles
 heraclitus
+Heracross
 heraklees
 herakles
 heras
@@ -6804,6 +6978,8 @@ hipolito
 hippocrates
 hippolytos
 hippolytus
+Hippopotas
+Hippowdon
 hiram
 hirasaki
 hirohito
@@ -6818,6 +6994,9 @@ hisayo
 hisolda
 hitendra
 hitesh
+Hitmonchan
+Hitmonlee
+Hitmontop
 hitomaru
 hitz
 hitzeder
@@ -6851,15 +7030,19 @@ homayoun
 homel'
 homer
 homerus
+Honchkrow
 honey
 honeyman
 hong
 hood
 hooda
+Ho-Oh
 hooks
 hooriya
+Hoothoot
 hope
 hopper
+Hoppip
 horace
 horacio
 hord
@@ -6867,6 +7050,7 @@ hori
 horne
 horomona
 horowhenua
+Horsea
 hortencia
 hortense
 hortensia
@@ -6877,6 +7061,8 @@ hoturoa
 hotz
 houd
 hound
+Houndoom
+Houndour
 house
 houston
 houtaaewa
@@ -6920,6 +7106,7 @@ huna
 hung
 hunno
 hunt
+Huntail
 hunter
 huong
 huriyyah
@@ -6951,6 +7138,7 @@ hye
 hyman
 hyo
 hyon
+Hypno
 hypsenor
 hypsipyle
 hyun
@@ -7036,6 +7224,7 @@ ieyoshi
 igalram
 igaratza
 igerna
+Igglybuff
 ighneachán
 iglesia
 ignach'-krest
@@ -7102,6 +7291,7 @@ illa
 illan
 illart
 illugi
+Illumise
 ilma
 ilmars
 ilna
@@ -7170,6 +7360,7 @@ inese
 inesis
 ineta
 inez
+Infernape
 inga
 inganiad
 ingars
@@ -7406,6 +7597,7 @@ ivonna
 ivonne
 ivory
 ivy
+Ivysaur
 iwana
 iwanaka
 iwang
@@ -7703,6 +7895,7 @@ jewell
 jezirah
 ji
 jicho
+Jigglypuff
 jihad
 jikkyo
 jill
@@ -7719,6 +7912,7 @@ jina
 jinny
 jinsi
 jintana
+Jirachi
 jitendra
 jivana
 jo
@@ -7783,6 +7977,7 @@ joleen
 jolene
 jolie
 joline
+Jolteon
 jolyn
 jolynn
 jon
@@ -7887,6 +8082,7 @@ juma
 jumanah
 jumba
 jumper
+Jumpluff
 jun
 june
 jung
@@ -7915,6 +8111,7 @@ juta
 jutta
 jutus
 juzijuzi
+Jynx
 jyoti
 jyotsna
 jaabir
@@ -7922,10 +8119,13 @@ jaafar
 k
 ka
 kabir
+Kabuto
+Kabutops
 kacey
 kaci
 kacie
 kacy
+Kadabra
 kadam
 kadesh
 kae
@@ -7954,6 +8154,7 @@ kaiva
 kajal
 kaklamanakis
 kakoulli
+Kakuna
 kal
 kala
 kalah
@@ -8032,6 +8233,7 @@ kanemitsu
 kanesha
 kanev
 kang
+Kangaskhan
 kanisha
 kanita
 kankor
@@ -8235,6 +8437,7 @@ keane
 keara
 kearsley
 kecia
+Kecleon
 keeley
 keelin
 keelta
@@ -8437,6 +8640,8 @@ kinemark
 kineshma
 kineth
 king
+Kingdra
+Kingler
 kinmorko
 kinnat
 kinnear
@@ -8455,6 +8660,7 @@ kirit
 kirk
 kirkland
 kirkpatrick
+Kirlia
 kirsten
 kirstie
 kirstin
@@ -8507,6 +8713,7 @@ kochalakos
 kodes
 koenigsberg
 koffa
+Koffing
 kogin
 kogo
 kohsoom
@@ -8605,6 +8812,7 @@ kozani
 kozar'
 kozelsk
 kozel'sk
+Krabby
 krabelin
 kraig
 kraisee
@@ -8619,6 +8827,8 @@ kremer
 kremianets
 krevo
 krichev
+Kricketot
+Kricketune
 kriengsak
 krijak
 kripa
@@ -8744,6 +8954,7 @@ kym
 kymberly
 kyndylan
 kynthoa
+Kyogre
 kyoko
 kyong
 kyprianou
@@ -8818,6 +9029,7 @@ laine
 lainisha
 lairgnen
 lairgren
+Lairon
 laisren
 laisrian
 laistranus
@@ -8892,6 +9104,7 @@ lannie
 lanny
 lanora
 lanos
+Lanturn
 lanuccus
 laodice
 laoghaire
@@ -8901,6 +9114,7 @@ laoise
 laoiseach
 lap
 lapenti
+Lapras
 lapurdi
 laquanda
 laquita
@@ -8927,6 +9141,7 @@ larry
 larsen
 lartaun
 larue
+Larvitar
 lasagain
 lasairfha
 lasairian
@@ -8968,9 +9183,11 @@ latharne
 lathouris
 lati
 latia
+Latias
 laticia
 latifah
 latina
+Latios
 latisha
 latonia
 latonya
@@ -9060,6 +9277,7 @@ ldishev
 le
 lea
 leachlainn
+Leafeon
 leagh
 leah
 lean
@@ -9083,7 +9301,9 @@ lebron
 lecia
 leda
 ledesma
+Ledian
 ledman
+Ledyba
 lee
 leeann
 leeanna
@@ -9238,6 +9458,8 @@ libby
 liberty
 librada
 lichtenstein
+Lickilicky
+Lickitung
 lida
 lide
 lidia
@@ -9264,6 +9486,7 @@ likpang
 liksma
 lila
 lile
+Lileep
 lili
 lilia
 lilian
@@ -9299,6 +9522,7 @@ linn
 linnea
 linnie
 lino
+Linoone
 linsey
 linwood
 liobhan
@@ -9394,6 +9618,7 @@ lolaksi
 lolita
 loma
 lomán
+Lombre
 lomna
 lomonaco
 lomza
@@ -9413,6 +9638,7 @@ lope
 lopene
 lopez
 lopez-bassols
+Lopunny
 lora
 loraine
 loralee
@@ -9460,6 +9686,7 @@ lorrine
 lory
 losada
 lossio
+Lotad
 lotars
 lote
 lottie
@@ -9468,6 +9695,7 @@ louann
 louanne
 louca
 loucas
+Loudred
 louella
 louetta
 louganis
@@ -9515,6 +9743,7 @@ lublin
 lubno
 lubrin
 lucais
+Lucario
 lucas
 lucco
 lucero
@@ -9542,6 +9771,7 @@ lucrecia
 lucretia
 luctacus
 lucy
+Ludicolo
 ludie
 ludis
 ludivina
@@ -9562,6 +9792,7 @@ lugh
 lugha
 lughaid
 lughaidh
+Lugia
 lugo
 lugobelinus
 lugotorix
@@ -9595,7 +9826,9 @@ luloah
 luloecen
 lulu
 lumakka
+Lumineon
 luna
+Lunatone
 lupa
 lupe
 lupita
@@ -9610,8 +9843,11 @@ lutfi
 luther
 lutsk
 luts'k
+Luvdisc
 luvenia
 luxemburg
+Luxio
+Luxray
 luz
 luzaide
 luzea
@@ -9663,9 +9899,12 @@ macbeathach
 macbeathad
 macer
 macha
+Machamp
 machar
 machelle
 machi
+Machoke
+Machop
 machungwa
 machute
 macie
@@ -9759,6 +9998,8 @@ magan
 maganas
 magaret
 magarino
+Magby
+Magcargo
 magda
 magdalen
 magdalena
@@ -9768,8 +10009,14 @@ magee
 magen
 maggie
 magharibi
+Magikarp
 maglocunus
 maglorix
+Magmar
+Magmortar
+Magnemite
+Magneton
+Magnezone
 magnolia
 magnuss
 magone
@@ -9849,6 +10096,7 @@ makeen
 makis
 makrigiannis
 maksis
+Makuhita
 mal
 mala
 malachias
@@ -9906,6 +10154,7 @@ mammie
 mamnoon
 mamoja
 mamos
+Mamoswine
 mampa
 mamta
 man
@@ -9913,6 +10162,7 @@ ma'n
 mana
 manal
 manam
+Manaphy
 manar
 manasi
 manavendra
@@ -9926,6 +10176,7 @@ mandie
 mandubracius
 manducios
 mandy
+Manectric
 manee
 maneula
 manex
@@ -9942,6 +10193,7 @@ manitho
 manjari
 manjarin
 manju
+Mankey
 mankuiti
 mann
 manna
@@ -9957,7 +10209,9 @@ mansur
 mante
 manthos
 mantilla
+Mantine
 manto
+Mantyke
 mantzia
 mantzio
 manu
@@ -10017,6 +10271,7 @@ mardell
 mardomingo
 marduk
 maredoc
+Mareep
 mareks
 maren
 marg
@@ -10087,6 +10342,7 @@ marija
 marika
 mariko
 marilee
+Marill
 marilou
 marilu
 marilyn
@@ -10142,6 +10398,7 @@ marni
 marnie
 maro
 marobodunus
+Marowak
 marquerite
 marquetta
 marquez
@@ -10155,6 +10412,7 @@ marrow
 marry
 marsha
 marshall
+Marshtomp
 marsolais
 marta
 martacus
@@ -10225,6 +10483,7 @@ mason
 masood
 masoud
 masouda
+Masquerain
 massana
 massey
 masuko
@@ -10288,6 +10547,7 @@ mavrokordatos
 mavromikhalis
 mavros
 mavroudis
+Mawile
 mawiyah
 max
 maxie
@@ -10377,7 +10637,9 @@ medb
 meder
 mederi
 medha
+Medicham
 medina
+Meditite
 medora
 medran
 medrano
@@ -10392,6 +10654,7 @@ meera
 meg
 megamede
 megan
+Meganium
 megara
 meges
 meggan
@@ -10495,6 +10758,7 @@ men'sk
 mentzia
 menua
 meolans
+Meowth
 mercedes
 mercedez
 merchant
@@ -10532,18 +10796,24 @@ mery
 meryl
 meshcherskii
 meshkat
+Mesprit
 messbuachalla
 messia
 messimeris
 meta
+Metagross
 metananda
 metaneira
+Metang
+Metapod
 metaxas
 methodius
 methol
 metra
 metrophanes
 meubred
+Mew
+Mewtwo
 mezchesk
 mezhibozh'e
 mezhimost'e
@@ -10599,6 +10869,7 @@ midori
 miervaldis
 miesha
 migdalia
+Mightyena
 mignon
 miguel
 miguelina
@@ -10655,11 +10926,14 @@ mills
 milly
 milo
 milos
+Milotic
 milstead
+Miltank
 milton
 miltos
 miluchradh
 milucra
+Mime Jr.
 mimi
 mimis
 min
@@ -10690,6 +10964,7 @@ minoza
 minsk
 minta
 mintauts
+Minun
 minyard
 miochaoin
 miodac
@@ -10718,8 +10993,10 @@ mirtha
 mirza
 misbahi
 misbaah
+Misdreavus
 mise
 misha
+Mismagius
 miss
 missy
 misti
@@ -10808,6 +11085,7 @@ molly
 mologa
 moloi
 molora
+Moltres
 molua
 moluag
 mona
@@ -10821,6 +11099,7 @@ monenna
 monentes
 monet
 money
+Monferno
 mongan
 mongfhionn
 mongfind
@@ -10917,6 +11196,7 @@ moskva
 moss
 mossadegh
 most
+Mothim
 motius
 motolinía
 moullai
@@ -10933,6 +11213,7 @@ mozhiyulum
 mozyr'
 mpaka
 mrefu
+Mr. Mime
 msemaji
 mshi
 mshipa
@@ -10957,6 +11238,7 @@ mudassar
 muddan
 mudingeyia
 mudite
+Mudkip
 muduarbulu
 mueller
 mufeed
@@ -11005,6 +11287,7 @@ muirne
 muiz
 mujeeb
 mujaahid
+Muk
 mukalakki
 mukarula
 mukhtaar
@@ -11020,6 +11303,7 @@ mumtaz
 mumtazi
 muna
 munarev
+Munchlax
 mundra
 muneer
 muneera
@@ -11063,6 +11347,7 @@ muriiwapungen
 murillo
 murinnia
 muriwallauwill
+Murkrow
 muro
 murom
 murovinsk
@@ -11317,6 +11602,7 @@ natividad
 natorus
 natosha
 natpudan
+Natu
 nauh
 nauka
 naukana
@@ -11482,6 +11768,11 @@ nicos
 nida
 nidhi
 nidia
+Nidoking
+Nidoqueen
+Nidoran?
+Nidorina
+Nidorino
 nidra
 nielsen
 niesha
@@ -11531,11 +11822,14 @@ nimrud
 nina
 ninaindhukkondirukkiren
 ninapopita
+Nincada
+Ninetales
 nineus
 nineveh
 ninfa
 ningeniu
 ninian
+Ninjask
 ninne
 nino
 ninona
@@ -11581,6 +11875,7 @@ noboa
 nobuko
 nockton
 nocolau
+Noctowl
 noe
 noel
 noelia
@@ -11631,6 +11926,7 @@ norris
 norvell
 nos
 noseda
+Nosepass
 nosov
 notal
 nouf
@@ -11661,6 +11957,7 @@ nui
 nulwoiyu
 numa
 nu'man
+Numel
 numerialmak
 núnez
 nung
@@ -11672,6 +11969,7 @@ nur
 nuta-laya
 nutingka
 nuxila
+Nuzleaf
 nyamaza
 nyavu
 nydia
@@ -11713,11 +12011,13 @@ ocie
 o'connell
 octavia
 octavio
+Octillery
 octrialach
 octruil
 oda
 odarnat
 odd
+Oddish
 odegard
 odele
 odelia
@@ -11831,9 +12131,11 @@ olympe
 olympia
 ol'zhitsi
 oma
+Omanyte
 omar
 omarjeet
 omaro
+Omastar
 omega
 omeir
 omer
@@ -11854,6 +12156,7 @@ ongley
 onie
 onintza
 onita
+Onix
 onshi
 onuava
 onund
@@ -12027,6 +12330,7 @@ p¾
 pa
 pablo
 pacheco
+Pachirisu
 padilla
 paeko
 paetus
@@ -12053,6 +12357,7 @@ palat
 palencia
 paleostrovsk
 palka
+Palkia
 pallab
 pallavi
 pallis
@@ -12135,6 +12440,8 @@ para
 paraguez
 paramartha
 paramendr
+Paras
+Parasect
 parastadidis
 pardo
 pardue
@@ -12243,6 +12550,7 @@ pelayo
 pelela
 peleus
 peli
+Pelipper
 pello
 pelym
 pendelea
@@ -12292,6 +12600,7 @@ perrando
 perrino
 perry
 persephone
+Persian
 pertxenta
 peru
 peruanton
@@ -12328,6 +12637,7 @@ phaistos
 phak-phimonphan
 phalgun
 phan
+Phanpy
 phara
 phebe
 phegeus
@@ -12365,6 +12675,7 @@ philomena
 philothea
 phim
 phinihan
+Phione
 phoebe
 phoenix
 phraisong
@@ -12389,7 +12700,11 @@ piatra
 pichai
 pichit
 pichitra
+Pichu
 pickett
+Pidgeot
+Pidgeotto
+Pidgey
 piedad
 piedrahita
 pierides
@@ -12400,13 +12715,16 @@ piga
 pih
 pihka
 pihtang
+Pikachu
 pilar
 pilare
 pillaiyum
+Piloswine
 pima
 pimental
 pin
 pindi
+Pineco
 pineda
 pinedo
 pinega
@@ -12417,12 +12735,14 @@ ping
 pinga
 pinilla
 pinkie
+Pinsir
 pinsk
 pinto
 pinzon
 pinzón
 piper
 pipinelis
+Piplup
 pippa
 pippenger
 pira
@@ -12458,6 +12778,7 @@ plesensk
 plesnesk
 pleso
 plotinus
+Plusle
 poblano
 podarcos
 poddar
@@ -12479,6 +12800,10 @@ polatsk
 pole
 polentzi
 polides
+Politoed
+Poliwag
+Poliwhirl
+Poliwrath
 polk
 polking
 polkosten
@@ -12509,6 +12834,8 @@ pomezania
 pomozdin
 pona
 pond
+Ponyta
+Poochyena
 pooja
 poonaiyonru
 poonam
@@ -12529,6 +12856,9 @@ portas
 porter
 portia
 portocarrero
+Porygon
+Porygon2
+Porygon-Z
 pos.
 posados
 posechen
@@ -12597,9 +12927,11 @@ pricilla
 pridfirth
 prieto
 priluk
+Primeape
 primikynos
 prince
 princess
+Prinplup
 printza
 priour
 prischmann
@@ -12613,6 +12945,7 @@ priti
 privrata
 priya
 priyanka
+Probopass
 procopius
 proi
 prokopios
@@ -12632,6 +12965,7 @@ psara
 psaros
 psaroulakis
 pskov
+Psyduck
 pu
 puckett
 pudes
@@ -12659,12 +12993,14 @@ pundarik
 pungua
 punguza
 punita
+Pupitar
 puput
 pura
 purandhri
 puranjay
 purnima
 puron
+Purugly
 purujit
 purva
 pusan
@@ -12691,6 +13027,7 @@ qazai
 qiana
 qodvoldeus
 qoli
+Quagsire
 qubilah
 qudamah
 qudoos
@@ -12705,6 +13042,7 @@ quesado
 questi
 quevedo
 quiana
+Quilava
 quincy
 quinn
 quintero
@@ -12713,6 +13051,7 @@ quinton
 quirot
 qutaybah
 quyen
+Qwilfish
 qaadir
 rabab
 rabah
@@ -12772,9 +13111,11 @@ rahimi
 rahmaan
 rahul
 rahwah
+Raichu
 raidah
 raighne
 raigre
+Raikou
 raimonda
 raimondi
 raimonds
@@ -12804,6 +13145,7 @@ ralfs
 rallis
 ralph
 ralston
+Ralts
 ram
 raman
 ramanuja
@@ -12816,6 +13158,7 @@ ramón
 ramona
 ramonita
 ramos
+Rampardos
 rampersad
 ramphoei
 rana
@@ -12842,6 +13185,7 @@ rannveig
 rantidev
 raouf
 raphael
+Rapidash
 rapinato
 raquel
 rasa
@@ -12859,8 +13203,10 @@ ratana
 ratanankorn
 rathnait
 rati
+Raticate
 ratner
 ratsami
+Rattata
 raudanaka
 raudang
 raudi
@@ -12888,6 +13234,7 @@ raymond
 raymonde
 raymundo
 rayna
+Rayquaza
 rayya
 raza
 razan
@@ -12929,10 +13276,14 @@ regan
 regena
 regenia
 reggie
+Regice
+Regigigas
 regina
 reginald
 regine
 reginia
+Regirock
+Registeel
 regol
 rehua
 rei
@@ -12951,10 +13302,12 @@ reiten
 reiter
 reitmeier
 rekha
+Relicanth
 rema
 remedios
 remir
 remona
+Remoraid
 rena
 renae
 renaldo
@@ -12975,6 +13328,7 @@ renshi
 renuka
 reoda
 reo-derg
+Reshiram
 resi
 ressie
 restrepo
@@ -13011,6 +13365,9 @@ rhona
 rhonda
 rhyanidd
 rhybrawst
+Rhydon
+Rhyhorn
+Rhyperior
 ria
 riach
 riagall
@@ -13072,6 +13429,7 @@ ringolds
 riogh
 ríoghbhardán
 rioghnach
+Riolu
 riommar
 riomthach
 rionach
@@ -13230,6 +13588,7 @@ roseann
 roseanna
 roseanne
 roselee
+Roselia
 roselia
 roseline
 rosella
@@ -13244,6 +13603,7 @@ rosenberg
 rosenblatt
 rosenda
 rosendo
+Roserade
 rosetta
 rosette
 roshan
@@ -13266,6 +13626,7 @@ rosukha
 rosy
 rota
 roth
+Rotom
 rotorua
 rovapera
 rowan
@@ -13402,6 +13763,7 @@ sabina
 sabine
 sabirah
 sabiri
+Sableye
 saboor
 sabra
 sabrina
@@ -13469,6 +13831,7 @@ sala
 salah
 salahuddin
 salama
+Salamence
 salamo
 salamu
 salam-ud-din
@@ -13566,6 +13929,8 @@ sandra
 sandris
 sandros
 sands
+Sandshrew
+Sandslash
 sanduku
 sanduru
 sandy
@@ -13726,6 +14091,7 @@ scathniamh
 scelianus
 scemena
 sceolan
+Sceptile
 schaefer
 schafer
 schedios
@@ -13737,6 +14103,7 @@ schneider
 schoenberger
 schoppe
 sciath
+Scizor
 scolaidh
 scolaighe
 scot
@@ -13745,14 +14112,18 @@ scottie
 scotty
 scrocmagil
 scrocmail
+Scyther
 sé
 seabra
 seachnall
+Seadra
 séafra
 seafraid
 seaghan
 seaghán
 séaghdha
+Seaking
+Sealeo
 sean
 seanach
 seanán
@@ -13775,6 +14146,8 @@ seda
 sedeno
 sedna
 sedullus
+Seedot
+Seel
 seema
 segarra
 ségdae
@@ -13829,6 +14202,7 @@ senshenn
 senshi
 senteildis
 sentis
+Sentret
 senuacus
 sepenestus
 september
@@ -13864,6 +14238,7 @@ setibogius
 setsuko
 severins
 severskii
+Seviper
 sevsk
 sewall
 seymour
@@ -13965,6 +14340,7 @@ sharolyn
 sharon
 sharonda
 sharp
+Sharpedo
 sharri
 sharron
 sharudi
@@ -13997,12 +14373,14 @@ shawnna
 shawnta
 shay
 shayla
+Shaymin
 shayna
 shayne
 shchekarev
 shea
 sheary
 sheba
+Shedinja
 sheena
 sheetal
 shefelbine
@@ -14013,11 +14391,14 @@ shela
 shelba
 shelby
 sheldon
+Shelgon
 shelia
 shella
+Shellder
 shelley
 shelli
 shellie
+Shellos
 shelly
 shelton
 shemakha
@@ -14065,7 +14446,9 @@ shiauliai
 shidle
 shiel
 shiela
+Shieldon
 shifley
+Shiftry
 shigenobu
 shigeuji
 shihab
@@ -14080,6 +14463,7 @@ shiluva
 shin
 shina
 shingen
+Shinx
 shira
 shirazi
 shirely
@@ -14113,14 +14497,17 @@ shouaa
 shozen
 shradhdha
 shreya
+Shroomish
 shruti
 shu
 shubha
+Shuckle
 shuia
 shuiskaia
 shuja-ud-din
 shumsk
 shupack
+Shuppet
 shusha
 shvetank
 shyla
@@ -14168,6 +14555,7 @@ sikka
 silas
 silban
 silbhe
+Silcoon
 silga
 siliceo
 silinus
@@ -14238,13 +14626,20 @@ siyavushi
 skaidrite
 skandalis
 skapti
+Skarmory
 skiotis
+Skiploom
+Skitty
 skolawn
+Skorupi
 skouloudis
 skouphas
+Skuntank
 skye
 skyros
 sláine
+Slaking
+Slakoth
 slania
 slanie
 sligech
@@ -14252,11 +14647,16 @@ sloboda
 slobodskoi
 slonim
 slovinskii
+Slowbro
+Slowking
+Slowpoke
 sluchesk
+Slugma
 slutsk
 slyvia
 smaida
 smayling
+Smeargle
 smertrius
 smil
 smirti
@@ -14264,14 +14664,20 @@ smita
 smith
 smolensk
 smolenskii
+Smoochum
 smotrych
 smuidra
+Sneasel
 snechta
 sneh
 sniedze
 snigdha
+Snorlax
 snorri
+Snorunt
+Snover
 snovsk
+Snubbull
 snyder
 sobha
 socorro
@@ -14310,6 +14716,7 @@ solomos
 solon
 solovetskii
 solozano
+Solrock
 soltero
 solveiga
 solvi
@@ -14379,13 +14786,19 @@ sparkle
 spash
 spaso-kamennyi
 spear
+Spearow
 speight
 speio
 spencer
+Spheal
 spidola
+Spinarak
+Spinda
 spiridon
+Spiritomb
 spodra
 spodris
+Spoink
 sporleda
 spring
 spruell
@@ -14393,6 +14806,7 @@ spudich
 spulga
 spyridon
 spyros
+Squirtle
 sraddha
 sreng
 sri
@@ -14421,17 +14835,23 @@ stan
 stanford
 stanislavs
 stanley
+Stantler
 stanton
 staphanos
 star
 staraia
+Staraptor
+Staravia
 stariat
 staritsa
 starkad
 starla
+Starly
+Starmie
 starn
 starodub
 starr
+Staryu
 stasi
 stasia
 stavacus
@@ -14442,6 +14862,7 @@ stavros
 stavrou
 stediana
 steele
+Steelix
 stefan
 stefana
 stefani
@@ -14506,6 +14927,7 @@ stuart
 stubbers
 stuckey
 stugart
+Stunky
 sturla
 styrkar
 su
@@ -14546,6 +14968,7 @@ sudha
 sudhansu
 sudhir
 sudie
+Sudowoodo
 sue
 sueann
 suellen
@@ -14568,6 +14991,7 @@ suhayr
 suhpi
 suibhne
 suibne
+Suicune
 sujata
 suk
 sukanda
@@ -14612,11 +15036,13 @@ sunatda
 sundara
 sundaravej
 sunetra
+Sunflora
 sung
 sunil
 sunisa
 sunita
 suniti
+Sunkern
 sunley
 sunni
 sunny
@@ -14643,6 +15069,7 @@ suriwongse
 suriyawong
 surotama
 surozh
+Surskit
 suruchi
 surupa
 surur
@@ -14686,18 +15113,23 @@ svinort
 svinukhi
 svir'
 sviril'sk
+Swablu
 swagat
 swaim
 swales
 swali
+Swalot
+Swampert
 swati
 sweed
 sweeney
+Swellow
 sweta
 swick
 swift
 swindell
 swint
+Swinub
 syagris
 sybil
 sybilla
@@ -14750,6 +15182,7 @@ taiga
 taihpang
 tailc
 taileach
+Taillow
 taillte
 tailltiu
 taina
@@ -14846,8 +15279,10 @@ taneo
 tanesha
 taneyoshi
 tangaza
+Tangela
 tangela
 tangka
+Tangrowth
 tania
 tanika
 tanisha
@@ -14913,6 +15348,7 @@ tatyana
 tau
 taukata
 taunya
+Tauros
 tavares
 tavira
 tavoularis
@@ -14939,6 +15375,7 @@ tecla
 tecmessa
 tecton
 ted
+Teddiursa
 teddy
 teena
 tegan
@@ -14986,6 +15423,8 @@ tenisha
 tennie
 tennille
 tensui
+Tentacool
+Tentacruel
 teobaldo
 teoda
 teodemiro
@@ -15284,6 +15723,9 @@ toda
 todd
 todor
 togama
+Togekiss
+Togepi
+Togetic
 togodumnus
 toi
 toima
@@ -15337,11 +15779,13 @@ tora
 torannen
 torchesk
 torchev
+Torchic
 torg
 tori
 toriano
 toribio
 torie
+Torkoal
 toro
 toroka
 toropets
@@ -15351,6 +15795,7 @@ torri
 torrianus
 torrie
 torrillas
+Torterra
 tortosa
 torun
 tory
@@ -15362,6 +15807,7 @@ toshiko
 tosti
 totakoxe
 totma
+Totodile
 totsakan
 toula
 touliatos
@@ -15373,6 +15819,7 @@ tovarov
 towanda
 towika
 towns
+Toxicroak
 toy
 toya
 toyonari
@@ -15391,8 +15838,10 @@ trakai
 tran
 trang
 traolach
+Trapinch
 travis
 treasa
+Treecko
 treena
 trena
 trendhorn
@@ -15429,6 +15878,7 @@ tristan
 trogain
 troghwen
 troncoso
+Tropius
 troy
 trubchevsk
 trubech
@@ -15509,6 +15959,7 @@ turlough
 turner
 turov
 turtanu
+Turtwig
 turuh
 tuscarora
 tushar
@@ -15548,10 +15999,13 @@ tyisha
 tyler
 tyndareus
 tynisha
+Typhlosion
 tyra
+Tyranitar
 tyree
 tyrell
 tyrnon
+Tyrogue
 tyron
 tyrone
 tysmainitsa
@@ -15656,6 +16110,7 @@ umakai
 umar
 umayma
 umayyad
+Umbreon
 umea
 umejua
 umeko
@@ -15684,6 +16139,7 @@ unmaigal
 unn
 unna
 unnai
+Unown
 unthaus
 untza
 untzizu
@@ -15733,6 +16189,7 @@ urrialdo
 urritz
 urroz
 urrutia
+Ursaring
 ursola
 ursula
 urtats
@@ -15791,6 +16248,7 @@ uvis
 uvumba
 uwe
 uwingu
+Uxie
 uzazi
 uzmen
 uzuri
@@ -15868,6 +16326,7 @@ vannesa
 vannessa
 vantha
 vaphiadis
+Vaporeon
 vaquero
 varanasi
 vardakastanis
@@ -15965,9 +16424,12 @@ venitsa
 venizelos
 vennera
 vennie
+Venomoth
+Venonat
 venta
 vents
 venus
+Venusaur
 venutius
 veola
 vepogenus
@@ -16023,6 +16485,7 @@ verspoor
 vertie
 verzhavsk
 vesma
+Vespiquen
 vessandan
 vesta
 vestein
@@ -16040,6 +16503,7 @@ viazma
 viaz'ma
 vibaya
 vibhuti
+Vibrava
 vicana
 vicario
 vicenta
@@ -16053,6 +16517,7 @@ vicr
 victor
 victoria
 victorina
+Victreebel
 vida
 vidaga
 vidal
@@ -16065,6 +16530,7 @@ viesturs
 vigdis
 vigean
 vigfus
+Vigoroth
 vigumu
 viipuri
 vija
@@ -16081,6 +16547,7 @@ viktorija
 viktors
 vila
 vilbia
+Vileplume
 vilhelmine
 vilhelms
 vil'iandi
@@ -16193,6 +16660,7 @@ voadicia
 vobonitsa
 voiadoutov
 voin'
+Volbeat
 voldemars
 voldutovpogost
 voldyzh
@@ -16207,6 +16675,7 @@ volok
 voloklamskii
 volokolamsk
 volonte
+Voltorb
 voltz
 volyn'
 volynskii
@@ -16241,6 +16710,7 @@ vruchii
 vsevolozh
 vshchizh
 vuka
+Vulpix
 vyborg
 vychegodskaia
 vyema
@@ -16272,6 +16742,8 @@ wahaab
 wai
 waihii
 waikaremoana
+Wailmer
+Wailord
 wajeeh
 wajeeha
 wajihah
@@ -16298,6 +16770,7 @@ waliyullah
 walker
 wallace
 wally
+Walrein
 waltai
 waltang
 waltangka
@@ -16330,6 +16803,7 @@ warmia
 warner
 warnes
 warren
+Wartortle
 was
 waseem
 washington
@@ -16353,7 +16827,11 @@ wayaka
 waylon
 wayne
 wazir
+Weavile
 webber
+Weedle
+Weepinbell
+Weezing
 wei
 weidenfeller
 weien
@@ -16392,6 +16870,8 @@ whakaue
 whangaehu
 whanganui
 whiltierna
+Whiscash
+Whismur
 whitaker
 white
 whitley
@@ -16400,6 +16880,7 @@ whaanauaapanui
 wi
 widad
 wiediger
+Wigglytuff
 wijdan
 wiki
 wilber
@@ -16444,6 +16925,7 @@ winger
 wingi
 wingka
 wingkata
+Wingull
 winifred
 winnie
 winnifred
@@ -16461,19 +16943,24 @@ witpang
 witputingna
 witsanunat
 witt
+Wobbuffet
 wokovu
 wonda
 wong
 wongsa
 woodbury
 woodrow
+Wooper
 wooten
 wordah
 woriega
 workman
+Wormadam
 wright
+Wurmple
 wyatt
 wyllow
+Wynaut
 wynell
 wynona
 waahid
@@ -16493,6 +16980,7 @@ xanthou
 xanti
 xantippe
 xarles
+Xatu
 xavier
 xaxi
 xefe
@@ -16564,6 +17052,8 @@ yanez
 yang
 yangna
 yanira
+Yanma
+Yanmega
 yannakis
 yannas
 yanni
@@ -16733,11 +17223,13 @@ zandra
 zandua
 zane
 zanete
+Zangoose
 zangu
 zanis
 zanjani
 zao
 zapata
+Zapdos
 zapol'skii
 zaporozh'e
 zarala
@@ -16757,6 +17249,7 @@ zbyrazh
 zdvizhden'
 zeberiogana
 zebramani
+Zekrom
 zelai
 zelda
 zeldin
@@ -16815,6 +17308,7 @@ zigmunds
 zigor
 zigrida
 zigurds
+Zigzagoon
 zikos
 zikuaga
 zilar
@@ -16852,9 +17346,12 @@ zoraida
 zorion
 zorione
 zorita
+Zoroark
+Zorua
 zuabi
 zuaza
 zubaidah
+Zubat
 zubero
 zuberoa
 zubia
