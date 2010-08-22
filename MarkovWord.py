@@ -61,5 +61,5 @@ def main():
         print markov.generate_word().capitalize()
 
 if __name__ == '__main__':
-    print 'Content-Type: text/plain\n'
+    print 'Content-Type: text/plain; charset=UTF-8\n'
     main()
