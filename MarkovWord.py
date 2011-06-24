@@ -12,14 +12,19 @@ class Markov:
 	    self.file_to_words(file)
             self.parse_words()
 	    cachefile = open('cache.file', 'w')
+	    startsfile = open('starts.file', 'w')
 	    cachefile.write(repr(self.cache))
+	    startsfile.write(repr(self.cache))
 	    cachefile.close()
+	    startsfile.close()
 	    self.file.close()
 	else:
 	    cachefile = open('cache.file')
 	    self.cache = eval(cachefile.read())
 	    cachefile.close()
-	    self.starts = self.cache.keys()
+	    startsfile = open('starts.file')
+	    self.starts = eval(startsfile.read())
+	    startsfile.close()
 
     def file_to_words(self, file):
         file.seek(0)
