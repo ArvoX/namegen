@@ -14,10 +14,10 @@ class Markov:
 	    cachefile = open('cache.file', 'w')
 	    startsfile = open('starts.file', 'w')
 	    cachefile.write(repr(self.cache))
-	    startsfile.write(repr(self.cache))
+	    startsfile.write(repr(self.starts))
 	    cachefile.close()
 	    startsfile.close()
-	    self.file.close()
+	    file.close()
 	else:
 	    cachefile = open('cache.file')
 	    self.cache = eval(cachefile.read())
@@ -59,6 +59,8 @@ class Markov:
             key = key[1:] + next
             next = random.choice(self.cache[key])
         return word
+    	print self.cache
+    	print self.starts
 
 def main():
     markov = Markov()
